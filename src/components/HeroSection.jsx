@@ -8,13 +8,13 @@ export const HeroSection = () => {
     >
         <div className="container max-w-4xl mx-auto text-center z-10">
             <div className="space-y-6">
-                <h1 className="text-4xl mid:text-6xl font-bold tracking-tight">
+                <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
                     <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
                     <span className="text-primary opacity-0 animate-fade-in-delay-1"> Stav</span>
                     <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">Algranati</span>
                 </h1>
 
-                <p className="text-lg mid:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
+                <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-3">
                     An ambitious junior developer driven by curiosity and a passion for problem solving.
                     I thrive on tackling new challenges, building practical software solutions, 
                     and continuously growing my skills to make a positive impact on my team.
