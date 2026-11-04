@@ -11,12 +11,13 @@ export const HeroSection = () => {
                 <h1 className="text-4xl mid:text-6xl font-bold tracking-tight">
                     <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
                     <span className="text-primary opacity-0 animate-fade-in-delay-1"> Stav</span>
-                    <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2"> Algranati</span>
+                    <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">Algranati</span>
                 </h1>
 
                 <p className="text-lg mid:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    WRITE HERE A SHORT DESCRIPTION ABOUT YOURSELF,
-                    YOUR SKILLS, AND WHAT YOU DO.
+                    An ambitious junior developer driven by curiosity and a passion for problem solving.
+                    I thrive on tackling new challenges, building practical software solutions, 
+                    and continuously growing my skills to make a positive impact on my team.
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
