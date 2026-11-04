@@ -27,7 +27,7 @@ const projects = [
     },
     {
         id: 3,
-        title: "Shaked Algranati – Nail Artist",
+        title: "Nail Artist Landing Page",
         description:
             "A responsive Hebrew (RTL) website for a nail artist, with a treatments menu, photo gallery and one-tap WhatsApp booking.",
         image: "/projects/nail-artist.png",
